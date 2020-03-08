@@ -7,5 +7,8 @@
 [Github OAuth Document](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 
 ## 工具
-[Git](https://git-scm.com/download)
-[OKHttp](https://square.github.io/okhttp/)
+[Git](https://git-scm.com/download)  
+[OKHttp](https://square.github.io/okhttp/)  
+
+## Flyway命令
+mvn flyway:migrate
