@@ -11,4 +11,4 @@
 [OKHttp](https://square.github.io/okhttp/)  
 
 ## Flyway命令
-mvn flyway:migrate
+mvn flyway:migrate,
